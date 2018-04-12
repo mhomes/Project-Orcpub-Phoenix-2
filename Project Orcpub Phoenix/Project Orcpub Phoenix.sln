@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Orcpub Phoenix", "Project Orcpub Phoenix.csproj", "{61A70FAC-16CE-4B9A-A787-CE14CCBF1C4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A70FAC-16CE-4B9A-A787-CE14CCBF1C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A70FAC-16CE-4B9A-A787-CE14CCBF1C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A70FAC-16CE-4B9A-A787-CE14CCBF1C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A70FAC-16CE-4B9A-A787-CE14CCBF1C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCF2A17A-5F84-4E59-845E-129F6DD08D7B}
+	EndGlobalSection
+EndGlobal
