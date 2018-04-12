@@ -21,5 +21,15 @@ namespace Project_Orcpub_Phoenix
         {
             //test
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
