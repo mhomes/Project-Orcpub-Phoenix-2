@@ -15,11 +15,13 @@ namespace Project_Orcpub_Phoenix
         public Form1()
         {
             InitializeComponent();
+            button
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             //test
+
         }
     }
 }
