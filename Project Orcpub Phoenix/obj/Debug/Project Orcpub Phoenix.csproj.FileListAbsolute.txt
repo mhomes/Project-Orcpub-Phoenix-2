@@ -8,4 +8,4 @@ C:\Users\matthew\Documents\GitHub\Project-Orcpub-Phoenix-2\Project Orcpub Phoeni
 C:\Users\matthew\Documents\GitHub\Project-Orcpub-Phoenix-2\Project Orcpub Phoenix\obj\Debug\Project Orcpub Phoenix.exe
 C:\Users\matthew\Documents\GitHub\Project-Orcpub-Phoenix-2\Project Orcpub Phoenix\obj\Debug\Project Orcpub Phoenix.pdb
 C:\Users\matthew\Documents\GitHub\Project-Orcpub-Phoenix-2\Project Orcpub Phoenix\obj\Debug\Project_Orcpub_Phoenix.Creation1.resources
-C:\Users\matthew\Documents\GitHub\Project-Orcpub-Phoenix-2\Project Orcpub Phoenix\obj\Debug\Project_Orcpub_Phoenix.Form2.resources
+C:\Users\matthew\Documents\GitHub\Project-Orcpub-Phoenix-2\Project Orcpub Phoenix\obj\Debug\Project_Orcpub_Phoenix.ASI.resources

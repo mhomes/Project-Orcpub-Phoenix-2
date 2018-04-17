@@ -37,7 +37,7 @@
             this.cboxClass = new System.Windows.Forms.ComboBox();
             this.btnClear = new System.Windows.Forms.Button();
             this.btnSave1 = new System.Windows.Forms.Button();
-            this.btnNext1 = new System.Windows.Forms.Button();
+            this.btnNextASI = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnExit
@@ -145,22 +145,22 @@
             this.btnSave1.Text = "Save";
             this.btnSave1.UseVisualStyleBackColor = true;
             // 
-            // btnNext1
+            // btnNextASI
             // 
-            this.btnNext1.Location = new System.Drawing.Point(213, 154);
-            this.btnNext1.Name = "btnNext1";
-            this.btnNext1.Size = new System.Drawing.Size(75, 23);
-            this.btnNext1.TabIndex = 9;
-            this.btnNext1.Text = "Next";
-            this.btnNext1.UseVisualStyleBackColor = true;
-            this.btnNext1.Click += new System.EventHandler(this.btnNext1_Click);
+            this.btnNextASI.Location = new System.Drawing.Point(213, 154);
+            this.btnNextASI.Name = "btnNextASI";
+            this.btnNextASI.Size = new System.Drawing.Size(75, 23);
+            this.btnNextASI.TabIndex = 9;
+            this.btnNextASI.Text = "Next";
+            this.btnNextASI.UseVisualStyleBackColor = true;
+            this.btnNextASI.Click += new System.EventHandler(this.btnNext1_Click);
             // 
             // Creation1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(300, 189);
-            this.Controls.Add(this.btnNext1);
+            this.Controls.Add(this.btnNextASI);
             this.Controls.Add(this.btnSave1);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.cboxClass);
@@ -190,7 +190,7 @@
         private System.Windows.Forms.ComboBox cboxClass;
         private System.Windows.Forms.Button btnClear;
         private System.Windows.Forms.Button btnSave1;
-        private System.Windows.Forms.Button btnNext1;
+        private System.Windows.Forms.Button btnNextASI;
     }
 }
 

@@ -45,7 +45,7 @@ namespace Project_Orcpub_Phoenix
 
         private void btnNext1_Click(object sender, EventArgs e)
         {
-            Form2 s= new Form2 ();
+            ASI s= new ASI ();
             s.Show();
             this.Hide();
 

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Project_Orcpub_Phoenix
 {
-    public partial class Form2 : Form
+    public partial class ASI : Form
     {
-        public Form2()
+        public ASI()
         {
             InitializeComponent();
         }
@@ -22,6 +22,16 @@ namespace Project_Orcpub_Phoenix
             Creation1 s = new Creation1();
             s.Show();
             this.Hide();
+        }
+
+        private void lblDex_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
