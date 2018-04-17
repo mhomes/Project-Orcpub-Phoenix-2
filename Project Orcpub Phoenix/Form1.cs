@@ -31,5 +31,16 @@ namespace Project_Orcpub_Phoenix
         {
             Application.Exit();
         }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            txtName.Text = String.Empty;
+            cboxRace.SelectedIndex = -1;
+            cboxClass.SelectedIndex = -1;
+        }
+
+        private void cboxRace_SelectedIndexChanged(object sender, EventArgs e)
+        {
+        }
     }
 }
