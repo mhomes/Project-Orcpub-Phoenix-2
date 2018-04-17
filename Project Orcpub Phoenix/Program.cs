@@ -16,7 +16,7 @@ namespace Project_Orcpub_Phoenix
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Creation1());
         }
     }
 }

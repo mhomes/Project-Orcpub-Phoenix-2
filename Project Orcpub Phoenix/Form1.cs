@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Project_Orcpub_Phoenix
 {
-    public partial class Form1 : Form
+    public partial class Creation1 : Form
     {
-        public Form1()
+        public Creation1()
         {
             InitializeComponent();
         }
@@ -41,6 +41,14 @@ namespace Project_Orcpub_Phoenix
 
         private void cboxRace_SelectedIndexChanged(object sender, EventArgs e)
         {
+        }
+
+        private void btnNext1_Click(object sender, EventArgs e)
+        {
+            Form2 s= new Form2 ();
+            s.Show();
+            this.Hide();
+
         }
     }
 }
