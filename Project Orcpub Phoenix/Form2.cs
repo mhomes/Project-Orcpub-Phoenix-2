@@ -33,5 +33,42 @@ namespace Project_Orcpub_Phoenix
         {
             Application.Exit();
         }
+
+        private void nudStr_ValueChanged(object sender, EventArgs e)
+        {
+            nudStr.Minimum = 8;
+            nudStr.Maximum = 15;
+     
+        }
+
+        private void nudDex_ValueChanged(object sender, EventArgs e)
+        {
+            nudDex.Minimum = 8;
+            nudDex.Maximum = 15;
+        }
+
+        private void nudCon_ValueChanged(object sender, EventArgs e)
+        {
+            nudCon.Minimum = 8;
+            nudCon.Maximum = 15;
+        }
+
+        private void nudInt_ValueChanged(object sender, EventArgs e)
+        {
+            nudInt.Minimum = 8;
+            nudInt.Maximum = 15;
+        }
+
+        private void nudWis_ValueChanged(object sender, EventArgs e)
+        {
+            nudWis.Minimum = 8;
+            nudWis.Maximum = 15;
+        }
+
+        private void nudCha_ValueChanged(object sender, EventArgs e)
+        {
+            nudWis.Minimum = 8;
+            nudWis.Maximum = 15;
+        }
     }
 }
