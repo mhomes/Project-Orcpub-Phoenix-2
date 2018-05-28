@@ -38,7 +38,18 @@ namespace Project_Orcpub_Phoenix
         {
             nudStr.Minimum = 8;
             nudStr.Maximum = 15;
-     
+          /*
+           Racial modifiers add on after point buy calculation is done
+           Max points is 27
+           8 - 0
+           9 - 1
+          10 - 2
+          11 - 3
+          12 - 4
+          13 - 5
+          14 - 7
+          15 - 9
+    */
         }
 
         private void nudDex_ValueChanged(object sender, EventArgs e)
