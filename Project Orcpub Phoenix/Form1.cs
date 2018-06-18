@@ -40,7 +40,7 @@ namespace Project_Orcpub_Phoenix
         }
 
         private void cboxRace_SelectedIndexChanged(object sender, EventArgs e)
-        {
+        {// we could use classes and inheritance to make the project easier
         }
 
         private void btnNext1_Click(object sender, EventArgs e)
