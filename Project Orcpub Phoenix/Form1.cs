@@ -50,5 +50,10 @@ namespace Project_Orcpub_Phoenix
             this.Hide();
 
         }
+
+        private void btnSave1_Click(object sender, EventArgs e)
+        {
+            // save
+        }
     }
 }
