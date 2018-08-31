@@ -33,53 +33,61 @@ namespace Project_Orcpub_Phoenix
         {
             Application.Exit();
         }
+            private void nudStr_ValueChanged(object sender, EventArgs e)
+            {
+                nudStr.Minimum = 8;
+                nudStr.Maximum = 15;
+                int Strcount = Convert.ToInt32(nudStr.Value);
 
-        private void nudStr_ValueChanged(object sender, EventArgs e)
-        {
-            nudStr.Minimum = 8;
-            nudStr.Maximum = 15;
-          /*
-           Racial modifiers add on after point buy calculation is done
-           Max points is 27
-           8 - 0
-           9 - 1
-          10 - 2
-          11 - 3
-          12 - 4
-          13 - 5
-          14 - 7
-          15 - 9
-    */
-        }
+            /*
+             Racial modifiers add on after point buy calculation is done
+             Max points is 27
+             8 - 0
+             9 - 1
+            10 - 2
+            11 - 3
+            12 - 4
+            13 - 5
+            14 - 7
+            15 - 9
+      */
+            }
 
-        private void nudDex_ValueChanged(object sender, EventArgs e)
-        {
-            nudDex.Minimum = 8;
-            nudDex.Maximum = 15;
-        }
+            private void nudDex_ValueChanged(object sender, EventArgs e)
+            {
+                nudDex.Minimum = 8;
+                nudDex.Maximum = 15;
+                int Dexcount = Convert.ToInt32(nudDex.Value);
+            }
 
-        private void nudCon_ValueChanged(object sender, EventArgs e)
-        {
-            nudCon.Minimum = 8;
-            nudCon.Maximum = 15;
-        }
+            private void nudCon_ValueChanged(object sender, EventArgs e)
+            {
+                nudCon.Minimum = 8;
+                nudCon.Maximum = 15;
+                int Concount = Convert.ToInt32(nudCon.Value);
+            }
 
-        private void nudInt_ValueChanged(object sender, EventArgs e)
-        {
-            nudInt.Minimum = 8;
-            nudInt.Maximum = 15;
-        }
+            private void nudInt_ValueChanged(object sender, EventArgs e)
+            {
+                nudInt.Minimum = 8;
+                nudInt.Maximum = 15;
+                int Intcount = Convert.ToInt32(nudInt.Value);
+            }
 
-        private void nudWis_ValueChanged(object sender, EventArgs e)
-        {
-            nudWis.Minimum = 8;
-            nudWis.Maximum = 15;
-        }
-
+            private void nudWis_ValueChanged(object sender, EventArgs e)
+            {
+                nudWis.Minimum = 8;
+                nudWis.Maximum = 15;
+                int Wiscount = Convert.ToInt32(nudWis.Value);
+            }  
+    
         private void nudCha_ValueChanged(object sender, EventArgs e)
         {
             nudWis.Minimum = 8;
             nudWis.Maximum = 15;
+            int Chacount = Convert.ToInt32(nudCha.Value);
         }
+        
+            
     }
 }
