@@ -55,5 +55,15 @@ namespace Project_Orcpub_Phoenix
         {
             // save
         }
+
+        private void txtName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cboxClass_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

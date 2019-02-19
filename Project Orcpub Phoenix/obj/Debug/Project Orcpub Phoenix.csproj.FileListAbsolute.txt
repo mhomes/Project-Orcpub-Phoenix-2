@@ -9,3 +9,14 @@ C:\Users\matthew\Documents\GitHub\Project-Orcpub-Phoenix-2\Project Orcpub Phoeni
 C:\Users\matthew\Documents\GitHub\Project-Orcpub-Phoenix-2\Project Orcpub Phoenix\obj\Debug\Project Orcpub Phoenix.pdb
 C:\Users\matthew\Documents\GitHub\Project-Orcpub-Phoenix-2\Project Orcpub Phoenix\obj\Debug\Project_Orcpub_Phoenix.Creation1.resources
 C:\Users\matthew\Documents\GitHub\Project-Orcpub-Phoenix-2\Project Orcpub Phoenix\obj\Debug\Project_Orcpub_Phoenix.ASI.resources
+C:\Users\Matthew\Desktop\code\Github\Project-Orcpub-Phoenix-2\MattsBranch\Project Orcpub Phoenix\bin\Debug\Project Orcpub Phoenix.exe.config
+C:\Users\Matthew\Desktop\code\Github\Project-Orcpub-Phoenix-2\MattsBranch\Project Orcpub Phoenix\bin\Debug\Project Orcpub Phoenix.exe
+C:\Users\Matthew\Desktop\code\Github\Project-Orcpub-Phoenix-2\MattsBranch\Project Orcpub Phoenix\bin\Debug\Project Orcpub Phoenix.pdb
+C:\Users\Matthew\Desktop\code\Github\Project-Orcpub-Phoenix-2\MattsBranch\Project Orcpub Phoenix\obj\Debug\Project Orcpub Phoenix.csprojAssemblyReference.cache
+C:\Users\Matthew\Desktop\code\Github\Project-Orcpub-Phoenix-2\MattsBranch\Project Orcpub Phoenix\obj\Debug\Project_Orcpub_Phoenix.Creation1.resources
+C:\Users\Matthew\Desktop\code\Github\Project-Orcpub-Phoenix-2\MattsBranch\Project Orcpub Phoenix\obj\Debug\Project_Orcpub_Phoenix.ASI.resources
+C:\Users\Matthew\Desktop\code\Github\Project-Orcpub-Phoenix-2\MattsBranch\Project Orcpub Phoenix\obj\Debug\Project_Orcpub_Phoenix.Properties.Resources.resources
+C:\Users\Matthew\Desktop\code\Github\Project-Orcpub-Phoenix-2\MattsBranch\Project Orcpub Phoenix\obj\Debug\Project Orcpub Phoenix.csproj.GenerateResource.cache
+C:\Users\Matthew\Desktop\code\Github\Project-Orcpub-Phoenix-2\MattsBranch\Project Orcpub Phoenix\obj\Debug\Project Orcpub Phoenix.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\code\Github\Project-Orcpub-Phoenix-2\MattsBranch\Project Orcpub Phoenix\obj\Debug\Project Orcpub Phoenix.exe
+C:\Users\Matthew\Desktop\code\Github\Project-Orcpub-Phoenix-2\MattsBranch\Project Orcpub Phoenix\obj\Debug\Project Orcpub Phoenix.pdb

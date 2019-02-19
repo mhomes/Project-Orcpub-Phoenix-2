@@ -56,6 +56,7 @@
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(189, 20);
             this.txtName.TabIndex = 1;
+            this.txtName.TextChanged += new System.EventHandler(this.txtName_TextChanged);
             // 
             // lblName
             // 
@@ -125,6 +126,7 @@
             this.cboxClass.Name = "cboxClass";
             this.cboxClass.Size = new System.Drawing.Size(189, 21);
             this.cboxClass.TabIndex = 6;
+            this.cboxClass.SelectedIndexChanged += new System.EventHandler(this.cboxClass_SelectedIndexChanged);
             // 
             // btnClear
             // 

@@ -12,6 +12,13 @@ namespace Project_Orcpub_Phoenix
 {
     public partial class ASI : Form
     {
+        private int Strcount;
+        private int Dexcount;
+        private int Concount;
+        private int Wiscount;
+        private int Intcount;
+        private int Chacount;
+
         public ASI()
         {
             InitializeComponent();
@@ -39,18 +46,6 @@ namespace Project_Orcpub_Phoenix
                 nudStr.Maximum = 15;
                 int Strcount = Convert.ToInt32(nudStr.Value);
 
-            /*
-             Racial modifiers add on after point buy calculation is done
-             Max points is 27
-             8 - 0
-             9 - 1
-            10 - 2
-            11 - 3
-            12 - 4
-            13 - 5
-            14 - 7
-            15 - 9
-      */
             }
 
             private void nudDex_ValueChanged(object sender, EventArgs e)
@@ -88,6 +83,37 @@ namespace Project_Orcpub_Phoenix
             int Chacount = Convert.ToInt32(nudCha.Value);
         }
         
-            
+        public void pointCount()
+        {
+            /*
+             Racial modifiers add on after point buy calculation is done
+             Max points is 27
+             8 - 0
+             9 - 1
+            10 - 2
+            11 - 3
+            12 - 4
+            13 - 5
+            14 - 7
+            15 - 9
+      */
+            int Totalcount = Strcount + Dexcount + Concount + Wiscount + Intcount + Chacount;
+            if count = 8
+                point = 0
+            if count = 9
+                point = 1
+            if count = 10
+                point = 2
+            if count = 11
+                point = 3
+            if count = 12
+                point = 4
+            if count = 13
+                point = 5
+            if count = 14
+                point = 7
+            if count = 15
+                point = 9
+        }
     }
 }

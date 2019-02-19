@@ -161,6 +161,11 @@
             this.nudStr.Name = "nudStr";
             this.nudStr.Size = new System.Drawing.Size(120, 20);
             this.nudStr.TabIndex = 11;
+            this.nudStr.Value = new decimal(new int[] {
+            8,
+            0,
+            0,
+            0});
             this.nudStr.ValueChanged += new System.EventHandler(this.nudStr_ValueChanged);
             // 
             // nudDex
@@ -169,6 +174,11 @@
             this.nudDex.Name = "nudDex";
             this.nudDex.Size = new System.Drawing.Size(120, 20);
             this.nudDex.TabIndex = 12;
+            this.nudDex.Value = new decimal(new int[] {
+            8,
+            0,
+            0,
+            0});
             this.nudDex.ValueChanged += new System.EventHandler(this.nudDex_ValueChanged);
             // 
             // nudCon
@@ -177,6 +187,11 @@
             this.nudCon.Name = "nudCon";
             this.nudCon.Size = new System.Drawing.Size(120, 20);
             this.nudCon.TabIndex = 13;
+            this.nudCon.Value = new decimal(new int[] {
+            8,
+            0,
+            0,
+            0});
             this.nudCon.ValueChanged += new System.EventHandler(this.nudCon_ValueChanged);
             // 
             // nudInt
@@ -185,6 +200,11 @@
             this.nudInt.Name = "nudInt";
             this.nudInt.Size = new System.Drawing.Size(120, 20);
             this.nudInt.TabIndex = 14;
+            this.nudInt.Value = new decimal(new int[] {
+            8,
+            0,
+            0,
+            0});
             this.nudInt.ValueChanged += new System.EventHandler(this.nudInt_ValueChanged);
             // 
             // nudWis
@@ -193,6 +213,11 @@
             this.nudWis.Name = "nudWis";
             this.nudWis.Size = new System.Drawing.Size(120, 20);
             this.nudWis.TabIndex = 15;
+            this.nudWis.Value = new decimal(new int[] {
+            8,
+            0,
+            0,
+            0});
             this.nudWis.ValueChanged += new System.EventHandler(this.nudWis_ValueChanged);
             // 
             // nudCha
@@ -201,6 +226,11 @@
             this.nudCha.Name = "nudCha";
             this.nudCha.Size = new System.Drawing.Size(120, 20);
             this.nudCha.TabIndex = 16;
+            this.nudCha.Value = new decimal(new int[] {
+            8,
+            0,
+            0,
+            0});
             this.nudCha.ValueChanged += new System.EventHandler(this.nudCha_ValueChanged);
             // 
             // ASI
